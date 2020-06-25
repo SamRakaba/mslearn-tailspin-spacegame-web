@@ -1,5 +1,7 @@
 
+[![Build Status](https://samrakaba.visualstudio.com/Space%20Game%20-%20web%20-%20workflow/_apis/build/status/SamRakaba.mslearn-tailspin-spacegame-web?branchName=master)](https://samrakaba.visualstudio.com/Space%20Game%20-%20web%20-%20workflow/_build/latest?definitionId=6&branchName=master)
 # Contributing
+
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
